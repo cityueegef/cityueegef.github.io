@@ -146,8 +146,8 @@ form {
   }
 
 table{
-  margin: 0 auto;
-  width: 1600px;
+  margin: auto; // 0 auto
+  width: 1600px; //1200px
 }
   
 table,
