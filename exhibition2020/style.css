@@ -166,7 +166,7 @@ tfoot {
 
 .box{
   width: 1600px; //original 1200
-  margin: auto;
+  margin: 0;
 }
 .proj-title{
   font-weight:bold;
