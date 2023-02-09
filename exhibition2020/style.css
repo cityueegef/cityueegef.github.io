@@ -45,8 +45,9 @@ li em {
 }
 
 table{
-    margin:auto;
+    /*margin:auto;
     text-align:center;
+    */
     table-layout:fixed;
     word-break: break-all; 
     word-wrap: break-word;
@@ -146,7 +147,7 @@ form {
 
 table{
   margin: 0 auto;
-  width: 1200px;
+  width: 1600px;
 }
   
 table,
