@@ -147,7 +147,7 @@ form {
 
 table{
   margin: 0; // 0 auto
-  width: 160px; //1200px
+  width: 1200px; //1200px
 }
   
 table,
@@ -165,7 +165,7 @@ tfoot {
 }
 
 .box{
-  width: 1600px; //original 1200
+  width: 16000px; //original 1200
   margin: 0;
 }
 .proj-title{
