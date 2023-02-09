@@ -45,9 +45,8 @@ li em {
 }
 
 table{
-    /*margin:auto;
+    margin:auto;
     text-align:center;
-    */
     table-layout:fixed;
     word-break: break-all; 
     word-wrap: break-word;
@@ -165,7 +164,7 @@ tfoot {
 }
 
 .box{
-  width: 2000px; //original 1200
+  width: 1600px; //original 1200
   margin: auto;
 }
 .proj-title{
