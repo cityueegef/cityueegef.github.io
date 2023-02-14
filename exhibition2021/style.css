@@ -204,7 +204,7 @@ a.button {
 }
 
 .abstract {
-white-space:pre-wrap;
+white-space: none; //pre-wrap;
 text-align: justify;
 margin: auto;
 }
