@@ -48,7 +48,7 @@ table{
     /*margin:auto;
     text-align:center;
     */
-	width: 1600px;
+	width: 1200px;
     table-layout:fixed;
     word-break: break-all; 
     word-wrap: break-word;
@@ -148,7 +148,7 @@ form {
 
 table{
   margin: 0; // 0 auto
-  width: 1600px; //1200px
+  width: 1200px; //1200px
 }
   
 
