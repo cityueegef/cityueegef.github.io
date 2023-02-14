@@ -65,7 +65,7 @@ body{
 form {
     /* 居中表单 */
     margin: 0 auto;
-    width: 400px; //original 400
+    width: 1200px; //original 400
     /* 显示表单的轮廓 */
     padding: 1em;
     border: 1px solid #CCC;
