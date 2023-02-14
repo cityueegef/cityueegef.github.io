@@ -147,10 +147,10 @@ form {
 
 table{
   margin: 0; // 0 auto
-  width: 1200px; //1200px
+  width: 1600px; //1200px
 }
   
-table,
+
 td {
     border: 1px solid #333;
     text-align: center;
