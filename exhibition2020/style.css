@@ -149,6 +149,10 @@ table{
   margin: 0; // 0 auto
   width: 2000px; //1200px
 }
+table-container{
+  margin: 0; // 0 auto
+  width: 2000px; //1200px
+}
   
 table,
 td {
