@@ -48,7 +48,8 @@ table{
     /*margin:auto;
     text-align:center;
     */
-	width: 900px;
+	margin:auto;
+	width: 1600px;
     table-layout:fixed;
     word-break: break-all; 
     word-wrap: break-word;
@@ -60,7 +61,7 @@ tr{
 }
 body{
     text-align:center;
-	width: 900px;
+	width: 1600px;
 }
 
 
