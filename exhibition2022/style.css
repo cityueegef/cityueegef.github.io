@@ -43,14 +43,6 @@ li em {
     font-weight:bold;
 }
 
-table{
-    /*margin:auto;
-    text-align:center;
-    */
-    table-layout:fixed;
-    word-break: break-all; 
-    word-wrap: break-word;
-}
 
 tr{
     margin:auto;
@@ -144,12 +136,7 @@ form {
     margin-left: .5em;
   }
 
-table{
-  margin: 0 auto;
-  width: 1200px;
-}
 
-table,
 td {
     border: 1px solid #333;
     text-align: center;
