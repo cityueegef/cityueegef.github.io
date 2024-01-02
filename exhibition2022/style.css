@@ -44,11 +44,11 @@ li em {
 }
 /* 
   margin:auto;
+    text-align:center;
+  table-layout:fixed;
   word-break: break-all;
    */
 table{
-  text-align:center;
-  table-layout:fixed;
   width: 1200px;
   word-wrap: break-word;
 }
