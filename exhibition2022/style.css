@@ -146,15 +146,15 @@ form {
   }
 
 table{
-  margin: 0; // 0 auto
-  width: 2000px; //1200px
+  margin: auto; // 0 auto
+  width: 5000px; //1200px
 }
 .table-container{
-  margin: 0; // 0 auto
+  margin: auto; // 0 auto
   width: 2000px; //1200px
 }
   
-table,
+/*table,*/
 td {
     border: 1px solid #333;
     text-align: left;
