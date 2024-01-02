@@ -42,9 +42,11 @@ li em {
     color:orange;
     font-weight:bold;
 }
-/* word-break: break-all; */
-table{
+/* 
   margin:auto;
+  word-break: break-all;
+   */
+table{
   text-align:center;
   table-layout:fixed;
   width: 1200px;
