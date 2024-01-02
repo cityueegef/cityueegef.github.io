@@ -45,12 +45,13 @@ li em {
 /* 
   
    
-  table-layout:fixed;
+  
    width: 1200px;
   word-break: break-all;
    */
 table{
   margin:auto;
+  table-layout:fixed;
   text-align:center;
   word-wrap: break-word;
 }
