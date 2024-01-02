@@ -48,8 +48,10 @@ table{
   text-align:center;
   */
   margin:auto;
-  width: 1200px;
 
+  table-layout:fixed;
+  word-break: break-all; 
+  word-wrap: break-word;
 }
 
 
