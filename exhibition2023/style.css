@@ -203,6 +203,6 @@ a.button {
 
 .abstract {
 white-space:pre-wrap;
-text-align: justify;
+text-align: start;
 margin: auto;
 }
